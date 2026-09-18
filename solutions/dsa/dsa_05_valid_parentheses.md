@@ -2,7 +2,7 @@
 
 - **Track**: DSA
 - **Difficulty**: Intermediate
-- **Completed**: 2026-09-18 11:59:23 UTC
+- **Completed**: 2026-09-18 12:00:58 UTC
 - **XP Earned**: +45 pts
 
 ---
@@ -28,12 +28,14 @@ When checking nested structures like parentheses `()`, brackets `[]`, and braces
 def is_valid_parentheses(s: str) -> bool:
     matching = {')': '(', ']': '[', '}': '{'}
     stack = []
+
     for char in s:
-        if char in matching.values():
+        if char in '([{':
             stack.append(char)
         elif char in matching:
             if not stack or stack.pop() != matching[char]:
                 return False
+
     return len(stack) == 0
 ```
 
