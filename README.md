@@ -3,10 +3,10 @@
 Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Stats
-- **Rank**: Script Novice (Level 2)
-- **Total XP**: 220 pts
+- **Rank**: Syntax Adept (Level 3)
+- **Total XP**: 255 pts
 - **Daily Streak**: 1 Days 🔥
-- **Quests Solved**: 6
+- **Quests Solved**: 7
 
 ### 📁 Solutions Repository Structure
 - `solutions/python/` — Python Bug Hunt & Optimization
