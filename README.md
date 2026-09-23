@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 5)
-- **Total XP**: 715 pts
+- **Total XP**: 760 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 18
+- **Total Quests Solved**: 19
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 2 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (18 Completed)
+### 📁 Solved Quests Directory (19 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -46,6 +46,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 16 | `DSA` | **Day 7: Kadane's Algorithm (Max Subarray Sum)** | `Intermediate` | +55 XP | [`dsa_07_kadanes_max_subarray.md`](solutions/dsa/dsa_07_kadanes_max_subarray.md) | ✅ Verified |
 | 17 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Anagram (2026-09-21)** | `Beginner` | +45 XP | [`daily_2026-09-21_dsa.md`](solutions/daily/daily_2026-09-21_dsa.md) | ✅ Verified |
 | 18 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-09-21)** | `Beginner` | +45 XP | [`daily_2026-09-21_drill.md`](solutions/daily/daily_2026-09-21_drill.md) | ✅ Verified |
+| 19 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-09-23)** | `Beginner` | +45 XP | [`daily_2026-09-23_dsa.md`](solutions/daily/daily_2026-09-23_dsa.md) | ✅ Verified |
 
 ---
 
@@ -61,4 +62,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-09-21*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-09-23*
