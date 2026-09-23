@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 5)
-- **Total XP**: 760 pts
+- **Total XP**: 800 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 19
+- **Total Quests Solved**: 20
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 4 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (19 Completed)
+### 📁 Solved Quests Directory (20 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -47,6 +47,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 17 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Anagram (2026-09-21)** | `Beginner` | +45 XP | [`daily_2026-09-21_dsa.md`](solutions/daily/daily_2026-09-21_dsa.md) | ✅ Verified |
 | 18 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-09-21)** | `Beginner` | +45 XP | [`daily_2026-09-21_drill.md`](solutions/daily/daily_2026-09-21_drill.md) | ✅ Verified |
 | 19 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-09-23)** | `Beginner` | +45 XP | [`daily_2026-09-23_dsa.md`](solutions/daily/daily_2026-09-23_dsa.md) | ✅ Verified |
+| 20 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-09-23)** | `Beginner` | +40 XP | [`daily_2026-09-23_drill.md`](solutions/daily/daily_2026-09-23_drill.md) | ✅ Verified |
 
 ---
 
