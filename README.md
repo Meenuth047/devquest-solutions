@@ -5,15 +5,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Syntax Adept (Level 5)
-- **Total XP**: 840 pts
+- **Rank**: Terminal Hacker (Level 6)
+- **Total XP**: 885 pts
 - **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 21
+- **Total Quests Solved**: 22
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 5 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 6 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (21 Completed)
+### 📁 Solved Quests Directory (22 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -49,6 +49,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 19 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-09-23)** | `Beginner` | +45 XP | [`daily_2026-09-23_dsa.md`](solutions/daily/daily_2026-09-23_dsa.md) | ✅ Verified |
 | 20 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-09-23)** | `Beginner` | +40 XP | [`daily_2026-09-23_drill.md`](solutions/daily/daily_2026-09-23_drill.md) | ✅ Verified |
 | 21 | `🔥 Daily Quests` | **🔥 Today's DSA: Contains Duplicate (2026-09-24)** | `Beginner` | +40 XP | [`daily_2026-09-24_dsa.md`](solutions/daily/daily_2026-09-24_dsa.md) | ✅ Verified |
+| 22 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-09-24)** | `Beginner` | +45 XP | [`daily_2026-09-24_drill.md`](solutions/daily/daily_2026-09-24_drill.md) | ✅ Verified |
 
 ---
 
