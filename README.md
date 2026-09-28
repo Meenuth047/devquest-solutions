@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Terminal Hacker (Level 6)
-- **Total XP**: 975 pts
-- **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 24
+- **Total XP**: 1025 pts
+- **Daily Streak**: 1 Days 🔥
+- **Total Quests Solved**: 25
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 8 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 9 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (24 Completed)
+### 📁 Solved Quests Directory (25 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -52,6 +52,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 22 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-09-24)** | `Beginner` | +45 XP | [`daily_2026-09-24_drill.md`](solutions/daily/daily_2026-09-24_drill.md) | ✅ Verified |
 | 23 | `🔥 Daily Quests` | **🔥 Today's DSA: Climbing Stairs (Dynamic Programming) (2026-09-25)** | `Beginner` | +50 XP | [`daily_2026-09-25_dsa.md`](solutions/daily/daily_2026-09-25_dsa.md) | ✅ Verified |
 | 24 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-09-25)** | `Beginner` | +40 XP | [`daily_2026-09-25_drill.md`](solutions/daily/daily_2026-09-25_drill.md) | ✅ Verified |
+| 25 | `🔥 Daily Quests` | **🔥 Today's DSA: Best Time to Buy and Sell Stock (2026-09-28)** | `Beginner` | +50 XP | [`daily_2026-09-28_dsa.md`](solutions/daily/daily_2026-09-28_dsa.md) | ✅ Verified |
 
 ---
 
@@ -67,4 +68,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-09-25*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-09-28*
