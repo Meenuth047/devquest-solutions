@@ -5,15 +5,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Terminal Hacker (Level 7)
-- **Total XP**: 1305 pts
+- **Rank**: Terminal Hacker (Level 8)
+- **Total XP**: 1350 pts
 - **Daily Streak**: 4 Days 🔥
-- **Total Quests Solved**: 31
+- **Total Quests Solved**: 32
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 15 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 16 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (31 Completed)
+### 📁 Solved Quests Directory (32 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -59,6 +59,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 29 | `🔥 Daily Quests` | **🔥 Today's DSA: Single Number (The XOR Trick) (2026-09-30)** | `Intermediate` | +55 XP | [`daily_2026-09-30_dsa.md`](solutions/daily/daily_2026-09-30_dsa.md) | ✅ Verified |
 | 30 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-09-30)** | `Beginner` | +40 XP | [`daily_2026-09-30_drill.md`](solutions/daily/daily_2026-09-30_drill.md) | ✅ Verified |
 | 31 | `🔥 Daily Quests` | **🔥 Today's DSA: Longest Common Prefix (2026-10-01)** | `Beginner` | +45 XP | [`daily_2026-10-01_dsa.md`](solutions/daily/daily_2026-10-01_dsa.md) | ✅ Verified |
+| 32 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-01)** | `Beginner` | +45 XP | [`daily_2026-10-01_drill.md`](solutions/daily/daily_2026-10-01_drill.md) | ✅ Verified |
 
 ---
 
