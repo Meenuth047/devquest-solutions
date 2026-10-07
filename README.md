@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Terminal Hacker (Level 8)
-- **Total XP**: 1350 pts
-- **Daily Streak**: 4 Days 🔥
-- **Total Quests Solved**: 32
+- **Total XP**: 1395 pts
+- **Daily Streak**: 1 Days 🔥
+- **Total Quests Solved**: 33
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 16 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 17 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (32 Completed)
+### 📁 Solved Quests Directory (33 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -60,6 +60,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 30 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-09-30)** | `Beginner` | +40 XP | [`daily_2026-09-30_drill.md`](solutions/daily/daily_2026-09-30_drill.md) | ✅ Verified |
 | 31 | `🔥 Daily Quests` | **🔥 Today's DSA: Longest Common Prefix (2026-10-01)** | `Beginner` | +45 XP | [`daily_2026-10-01_dsa.md`](solutions/daily/daily_2026-10-01_dsa.md) | ✅ Verified |
 | 32 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-01)** | `Beginner` | +45 XP | [`daily_2026-10-01_drill.md`](solutions/daily/daily_2026-10-01_drill.md) | ✅ Verified |
+| 33 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-10-07)** | `Beginner` | +45 XP | [`daily_2026-10-07_dsa.md`](solutions/daily/daily_2026-10-07_dsa.md) | ✅ Verified |
 
 ---
 
@@ -75,4 +76,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-10-01*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-10-07*
