@@ -6,9 +6,9 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 5)
-- **Total XP**: 680 pts
+- **Total XP**: 720 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 17
+- **Total Quests Solved**: 18
 
 ---
 
@@ -20,11 +20,11 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 - **🐧 Linux & Shell**: 1/1 Quests (100%) ✅
 - **⚡ JavaScript Drills**: 1/1 Quests (100%) ✅
 - **⚙️ C / C++ Bits**: 1/1 Quests (100%) ✅
-- **🎯 Regex Golf**: 1/2 Quests (50%) ⏳
+- **🎯 Regex Golf**: 2/2 Quests (100%) ✅
 
 ---
 
-### 📁 Solved Quests Directory (17 Completed)
+### 📁 Solved Quests Directory (18 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -45,6 +45,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 15 | `JavaScript` | **Deduplicate Array Preserving Order** | `Beginner` | +30 XP | [`js_01_array_dedup.md`](solutions/javascript/js_01_array_dedup.md) | ✅ Verified |
 | 16 | `C / C++` | **Brian Kernighan's Bit Counter** | `Intermediate` | +45 XP | [`cpp_01_count_set_bits.md`](solutions/cpp/cpp_01_count_set_bits.md) | ✅ Verified |
 | 17 | `Regex` | **Validate IPv4 Addresses** | `Beginner` | +30 XP | [`rg_01_ipv4.md`](solutions/regex/rg_01_ipv4.md) | ✅ Verified |
+| 18 | `Regex` | **Extract Markdown Link URLs** | `Intermediate` | +40 XP | [`rg_02_markdown_links.md`](solutions/regex/rg_02_markdown_links.md) | ✅ Verified |
 
 ---
 
