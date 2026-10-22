@@ -5,10 +5,10 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Syntax Adept (Level 4)
-- **Total XP**: 605 pts
+- **Rank**: Syntax Adept (Level 5)
+- **Total XP**: 650 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 15
+- **Total Quests Solved**: 16
 
 ---
 
@@ -19,12 +19,12 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
 - **🐧 Linux & Shell**: 1/1 Quests (100%) ✅
 - **⚡ JavaScript Drills**: 1/1 Quests (100%) ✅
-- **⚙️ C / C++ Bits**: 0/1 Quests (0%) ⏳
+- **⚙️ C / C++ Bits**: 1/1 Quests (100%) ✅
 - **🎯 Regex Golf**: 0/2 Quests (0%) ⏳
 
 ---
 
-### 📁 Solved Quests Directory (15 Completed)
+### 📁 Solved Quests Directory (16 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -43,6 +43,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 13 | `SQL` | **High-Value Customers** | `Beginner` | +35 XP | [`sql_01_top_spenders.md`](solutions/sql/sql_01_top_spenders.md) | ✅ Verified |
 | 14 | `Linux` | **Unix Permissions Translator** | `Beginner` | +30 XP | [`sh_01_octal_permissions.md`](solutions/linux/sh_01_octal_permissions.md) | ✅ Verified |
 | 15 | `JavaScript` | **Deduplicate Array Preserving Order** | `Beginner` | +30 XP | [`js_01_array_dedup.md`](solutions/javascript/js_01_array_dedup.md) | ✅ Verified |
+| 16 | `C / C++` | **Brian Kernighan's Bit Counter** | `Intermediate` | +45 XP | [`cpp_01_count_set_bits.md`](solutions/cpp/cpp_01_count_set_bits.md) | ✅ Verified |
 
 ---
 
