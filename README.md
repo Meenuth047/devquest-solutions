@@ -6,9 +6,9 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 4)
-- **Total XP**: 545 pts
+- **Total XP**: 575 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 13
+- **Total Quests Solved**: 14
 
 ---
 
@@ -17,14 +17,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 2/3 Quests (66%) ⏳
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
-- **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
+- **🐧 Linux & Shell**: 1/1 Quests (100%) ✅
 - **⚡ JavaScript Drills**: 0/1 Quests (0%) ⏳
 - **⚙️ C / C++ Bits**: 0/1 Quests (0%) ⏳
 - **🎯 Regex Golf**: 0/2 Quests (0%) ⏳
 
 ---
 
-### 📁 Solved Quests Directory (13 Completed)
+### 📁 Solved Quests Directory (14 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -41,6 +41,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 11 | `Python` | **The Mutable Default Argument Trap** | `Intermediate` | +40 XP | [`py_02_default_arg_trap.md`](solutions/python/py_02_default_arg_trap.md) | ✅ Verified |
 | 12 | `Python` | **Deep Flatten Arbitrary Nesting** | `Intermediate` | +50 XP | [`py_03_deep_flatten.md`](solutions/python/py_03_deep_flatten.md) | ✅ Verified |
 | 13 | `SQL` | **High-Value Customers** | `Beginner` | +35 XP | [`sql_01_top_spenders.md`](solutions/sql/sql_01_top_spenders.md) | ✅ Verified |
+| 14 | `Linux` | **Unix Permissions Translator** | `Beginner` | +30 XP | [`sh_01_octal_permissions.md`](solutions/linux/sh_01_octal_permissions.md) | ✅ Verified |
 
 ---
 
