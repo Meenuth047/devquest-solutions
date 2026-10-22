@@ -6,9 +6,9 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 4)
-- **Total XP**: 510 pts
+- **Total XP**: 545 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 12
+- **Total Quests Solved**: 13
 
 ---
 
@@ -16,7 +16,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 - **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 2/3 Quests (66%) ⏳
-- **🔍 SQL Detective**: 0/1 Quests (0%) ⏳
+- **🔍 SQL Detective**: 1/1 Quests (100%) ✅
 - **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
 - **⚡ JavaScript Drills**: 0/1 Quests (0%) ⏳
 - **⚙️ C / C++ Bits**: 0/1 Quests (0%) ⏳
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (12 Completed)
+### 📁 Solved Quests Directory (13 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -40,6 +40,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 10 | `DSA` | **Day 7: Kadane's Algorithm (Max Subarray Sum)** | `Intermediate` | +55 XP | [`dsa_07_kadanes_max_subarray.md`](solutions/dsa/dsa_07_kadanes_max_subarray.md) | ✅ Verified |
 | 11 | `Python` | **The Mutable Default Argument Trap** | `Intermediate` | +40 XP | [`py_02_default_arg_trap.md`](solutions/python/py_02_default_arg_trap.md) | ✅ Verified |
 | 12 | `Python` | **Deep Flatten Arbitrary Nesting** | `Intermediate` | +50 XP | [`py_03_deep_flatten.md`](solutions/python/py_03_deep_flatten.md) | ✅ Verified |
+| 13 | `SQL` | **High-Value Customers** | `Beginner` | +35 XP | [`sql_01_top_spenders.md`](solutions/sql/sql_01_top_spenders.md) | ✅ Verified |
 
 ---
 
