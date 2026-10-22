@@ -5,75 +5,32 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Byte Sorcerer (Level 10)
-- **Total XP**: 1975 pts
-- **Daily Streak**: 5 Days 🔥
-- **Total Quests Solved**: 46
+- **Rank**: Script Novice (Level 2)
+- **Total XP**: 125 pts
+- **Daily Streak**: 1 Days 🔥
+- **Total Quests Solved**: 3
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 30 Daily Quests Completed 🔥
-- **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
-- **🐍 Python Mastery**: 3/3 Quests (100%) ✅
-- **🔍 SQL Detective**: 1/1 Quests (100%) ✅
-- **🐧 Linux & Shell**: 1/1 Quests (100%) ✅
-- **⚡ JavaScript Drills**: 1/1 Quests (100%) ✅
-- **⚙️ C / C++ Bits**: 1/1 Quests (100%) ✅
-- **🎯 Regex Golf**: 2/2 Quests (100%) ✅
+- **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
+- **🧠 DSA (Zero to Hero)**: 0/7 Quests (0%) ⏳
+- **🐍 Python Mastery**: 0/3 Quests (0%) ⏳
+- **🔍 SQL Detective**: 0/1 Quests (0%) ⏳
+- **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
+- **⚡ JavaScript Drills**: 0/1 Quests (0%) ⏳
+- **⚙️ C / C++ Bits**: 0/1 Quests (0%) ⏳
+- **🎯 Regex Golf**: 0/2 Quests (0%) ⏳
 
 ---
 
-### 📁 Solved Quests Directory (46 Completed)
+### 📁 Solved Quests Directory (3 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
-| 1 | `Linux` | **Unix Permissions Translator** | `Beginner` | +30 XP | [`sh_01_octal_permissions.md`](solutions/linux/sh_01_octal_permissions.md) | ✅ Verified |
-| 2 | `Python` | **Fix the Sublist Chunker** | `Beginner` | +30 XP | [`py_01_chunk_list.md`](solutions/python/py_01_chunk_list.md) | ✅ Verified |
-| 3 | `Python` | **The Mutable Default Argument Trap** | `Intermediate` | +40 XP | [`py_02_default_arg_trap.md`](solutions/python/py_02_default_arg_trap.md) | ✅ Verified |
-| 4 | `Python` | **Deep Flatten Arbitrary Nesting** | `Intermediate` | +50 XP | [`py_03_deep_flatten.md`](solutions/python/py_03_deep_flatten.md) | ✅ Verified |
-| 5 | `Regex` | **Validate IPv4 Addresses** | `Beginner` | +30 XP | [`rg_01_ipv4.md`](solutions/regex/rg_01_ipv4.md) | ✅ Verified |
-| 6 | `Regex` | **Extract Markdown Link URLs** | `Intermediate` | +40 XP | [`rg_02_markdown_links.md`](solutions/regex/rg_02_markdown_links.md) | ✅ Verified |
-| 7 | `SQL` | **High-Value Customers** | `Beginner` | +35 XP | [`sql_01_top_spenders.md`](solutions/sql/sql_01_top_spenders.md) | ✅ Verified |
-| 8 | `DSA` | **Day 1: Array Traversal & Running Sum** | `Beginner` | +30 XP | [`dsa_01_running_sum.md`](solutions/dsa/dsa_01_running_sum.md) | ✅ Verified |
-| 9 | `DSA` | **Day 2: Two-Pointer Technique (Reverse List)** | `Beginner` | +35 XP | [`dsa_02_two_pointer_reverse.md`](solutions/dsa/dsa_02_two_pointer_reverse.md) | ✅ Verified |
-| 10 | `JavaScript` | **Deduplicate Array Preserving Order** | `Beginner` | +30 XP | [`js_01_array_dedup.md`](solutions/javascript/js_01_array_dedup.md) | ✅ Verified |
-| 11 | `C / C++` | **Brian Kernighan's Bit Counter** | `Intermediate` | +45 XP | [`cpp_01_count_set_bits.md`](solutions/cpp/cpp_01_count_set_bits.md) | ✅ Verified |
-| 12 | `DSA` | **Day 3: Hash Maps for O(1) Lookup (Two Sum)** | `Beginner` | +40 XP | [`dsa_03_two_sum_hashmap.md`](solutions/dsa/dsa_03_two_sum_hashmap.md) | ✅ Verified |
-| 13 | `DSA` | **Day 4: Frequency Counting (First Unique Character)** | `Intermediate` | +40 XP | [`dsa_04_first_unique_char.md`](solutions/dsa/dsa_04_first_unique_char.md) | ✅ Verified |
-| 14 | `DSA` | **Day 5: Stacks (Valid Matching Brackets)** | `Intermediate` | +45 XP | [`dsa_05_valid_parentheses.md`](solutions/dsa/dsa_05_valid_parentheses.md) | ✅ Verified |
-| 15 | `DSA` | **Day 6: Divide & Conquer (Binary Search)** | `Intermediate` | +50 XP | [`dsa_06_binary_search.md`](solutions/dsa/dsa_06_binary_search.md) | ✅ Verified |
-| 16 | `DSA` | **Day 7: Kadane's Algorithm (Max Subarray Sum)** | `Intermediate` | +55 XP | [`dsa_07_kadanes_max_subarray.md`](solutions/dsa/dsa_07_kadanes_max_subarray.md) | ✅ Verified |
-| 17 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Anagram (2026-09-21)** | `Beginner` | +45 XP | [`daily_2026-09-21_dsa.md`](solutions/daily/daily_2026-09-21_dsa.md) | ✅ Verified |
-| 18 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-09-21)** | `Beginner` | +45 XP | [`daily_2026-09-21_drill.md`](solutions/daily/daily_2026-09-21_drill.md) | ✅ Verified |
-| 19 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-09-23)** | `Beginner` | +45 XP | [`daily_2026-09-23_dsa.md`](solutions/daily/daily_2026-09-23_dsa.md) | ✅ Verified |
-| 20 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-09-23)** | `Beginner` | +40 XP | [`daily_2026-09-23_drill.md`](solutions/daily/daily_2026-09-23_drill.md) | ✅ Verified |
-| 21 | `🔥 Daily Quests` | **🔥 Today's DSA: Contains Duplicate (2026-09-24)** | `Beginner` | +40 XP | [`daily_2026-09-24_dsa.md`](solutions/daily/daily_2026-09-24_dsa.md) | ✅ Verified |
-| 22 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-09-24)** | `Beginner` | +45 XP | [`daily_2026-09-24_drill.md`](solutions/daily/daily_2026-09-24_drill.md) | ✅ Verified |
-| 23 | `🔥 Daily Quests` | **🔥 Today's DSA: Climbing Stairs (Dynamic Programming) (2026-09-25)** | `Beginner` | +50 XP | [`daily_2026-09-25_dsa.md`](solutions/daily/daily_2026-09-25_dsa.md) | ✅ Verified |
-| 24 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-09-25)** | `Beginner` | +40 XP | [`daily_2026-09-25_drill.md`](solutions/daily/daily_2026-09-25_drill.md) | ✅ Verified |
-| 25 | `🔥 Daily Quests` | **🔥 Today's DSA: Best Time to Buy and Sell Stock (2026-09-28)** | `Beginner` | +50 XP | [`daily_2026-09-28_dsa.md`](solutions/daily/daily_2026-09-28_dsa.md) | ✅ Verified |
-| 26 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-09-28)** | `Beginner` | +45 XP | [`daily_2026-09-28_drill.md`](solutions/daily/daily_2026-09-28_drill.md) | ✅ Verified |
-| 27 | `🔥 Daily Quests` | **🔥 Today's DSA: Move Zeroes in Place (2026-09-29)** | `Beginner` | +45 XP | [`daily_2026-09-29_dsa.md`](solutions/daily/daily_2026-09-29_dsa.md) | ✅ Verified |
-| 28 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-09-29)** | `Intermediate` | +50 XP | [`daily_2026-09-29_drill.md`](solutions/daily/daily_2026-09-29_drill.md) | ✅ Verified |
-| 29 | `🔥 Daily Quests` | **🔥 Today's DSA: Single Number (The XOR Trick) (2026-09-30)** | `Intermediate` | +55 XP | [`daily_2026-09-30_dsa.md`](solutions/daily/daily_2026-09-30_dsa.md) | ✅ Verified |
-| 30 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-09-30)** | `Beginner` | +40 XP | [`daily_2026-09-30_drill.md`](solutions/daily/daily_2026-09-30_drill.md) | ✅ Verified |
-| 31 | `🔥 Daily Quests` | **🔥 Today's DSA: Longest Common Prefix (2026-10-01)** | `Beginner` | +45 XP | [`daily_2026-10-01_dsa.md`](solutions/daily/daily_2026-10-01_dsa.md) | ✅ Verified |
-| 32 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-01)** | `Beginner` | +45 XP | [`daily_2026-10-01_drill.md`](solutions/daily/daily_2026-10-01_drill.md) | ✅ Verified |
-| 33 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-10-07)** | `Beginner` | +45 XP | [`daily_2026-10-07_dsa.md`](solutions/daily/daily_2026-10-07_dsa.md) | ✅ Verified |
-| 34 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-10-07)** | `Beginner` | +40 XP | [`daily_2026-10-07_drill.md`](solutions/daily/daily_2026-10-07_drill.md) | ✅ Verified |
-| 35 | `🔥 Daily Quests` | **🔥 Today's DSA: Contains Duplicate (2026-10-08)** | `Beginner` | +40 XP | [`daily_2026-10-08_dsa.md`](solutions/daily/daily_2026-10-08_dsa.md) | ✅ Verified |
-| 36 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-08)** | `Beginner` | +45 XP | [`daily_2026-10-08_drill.md`](solutions/daily/daily_2026-10-08_drill.md) | ✅ Verified |
-| 37 | `🔥 Daily Quests` | **🔥 Today's DSA: Best Time to Buy and Sell Stock (2026-10-12)** | `Beginner` | +50 XP | [`daily_2026-10-12_dsa.md`](solutions/daily/daily_2026-10-12_dsa.md) | ✅ Verified |
-| 38 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-10-12)** | `Beginner` | +45 XP | [`daily_2026-10-12_drill.md`](solutions/daily/daily_2026-10-12_drill.md) | ✅ Verified |
-| 39 | `🔥 Daily Quests` | **🔥 Today's DSA: Move Zeroes in Place (2026-10-13)** | `Beginner` | +45 XP | [`daily_2026-10-13_dsa.md`](solutions/daily/daily_2026-10-13_dsa.md) | ✅ Verified |
-| 40 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-10-13)** | `Intermediate` | +50 XP | [`daily_2026-10-13_drill.md`](solutions/daily/daily_2026-10-13_drill.md) | ✅ Verified |
-| 41 | `🔥 Daily Quests` | **🔥 Today's DSA: Single Number (The XOR Trick) (2026-10-14)** | `Intermediate` | +55 XP | [`daily_2026-10-14_dsa.md`](solutions/daily/daily_2026-10-14_dsa.md) | ✅ Verified |
-| 42 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-10-14)** | `Beginner` | +40 XP | [`daily_2026-10-14_drill.md`](solutions/daily/daily_2026-10-14_drill.md) | ✅ Verified |
-| 43 | `🔥 Daily Quests` | **🔥 Today's DSA: Longest Common Prefix (2026-10-15)** | `Beginner` | +45 XP | [`daily_2026-10-15_dsa.md`](solutions/daily/daily_2026-10-15_dsa.md) | ✅ Verified |
-| 44 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-15)** | `Beginner` | +45 XP | [`daily_2026-10-15_drill.md`](solutions/daily/daily_2026-10-15_drill.md) | ✅ Verified |
-| 45 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Palindrome (Alphanumeric) (2026-10-16)** | `Beginner` | +40 XP | [`daily_2026-10-16_dsa.md`](solutions/daily/daily_2026-10-16_dsa.md) | ✅ Verified |
-| 46 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-10-16)** | `Beginner` | +40 XP | [`daily_2026-10-16_drill.md`](solutions/daily/daily_2026-10-16_drill.md) | ✅ Verified |
+| 1 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Palindrome (Alphanumeric) (2026-10-16)** | `Beginner` | +40 XP | [`daily_2026-10-16_dsa.md`](solutions/daily/daily_2026-10-16_dsa.md) | ✅ Verified |
+| 2 | `🔥 Daily Quests` | **🔥 Today's DSA: Contains Duplicate (2026-10-22)** | `Beginner` | +40 XP | [`daily_2026-10-22_dsa.md`](solutions/daily/daily_2026-10-22_dsa.md) | ✅ Verified |
+| 3 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-22)** | `Beginner` | +45 XP | [`daily_2026-10-22_drill.md`](solutions/daily/daily_2026-10-22_drill.md) | ✅ Verified |
 
 ---
 
@@ -89,4 +46,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-10-16*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-10-22*
