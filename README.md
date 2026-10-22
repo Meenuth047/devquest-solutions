@@ -5,16 +5,16 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Script Novice (Level 2)
-- **Total XP**: 230 pts
+- **Rank**: Syntax Adept (Level 3)
+- **Total XP**: 270 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 6
+- **Total Quests Solved**: 7
 
 ---
 
 ### 📚 Course Mastery Progress
 - **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
-- **🧠 DSA (Zero to Hero)**: 3/7 Quests (42%) ⏳
+- **🧠 DSA (Zero to Hero)**: 4/7 Quests (57%) ⏳
 - **🐍 Python Mastery**: 0/3 Quests (0%) ⏳
 - **🔍 SQL Detective**: 0/1 Quests (0%) ⏳
 - **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (6 Completed)
+### 📁 Solved Quests Directory (7 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -34,6 +34,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 4 | `DSA` | **Day 1: Array Traversal & Running Sum** | `Beginner` | +30 XP | [`dsa_01_running_sum.md`](solutions/dsa/dsa_01_running_sum.md) | ✅ Verified |
 | 5 | `DSA` | **Day 2: Two-Pointer Technique (Reverse List)** | `Beginner` | +35 XP | [`dsa_02_two_pointer_reverse.md`](solutions/dsa/dsa_02_two_pointer_reverse.md) | ✅ Verified |
 | 6 | `DSA` | **Day 3: Hash Maps for O(1) Lookup (Two Sum)** | `Beginner` | +40 XP | [`dsa_03_two_sum_hashmap.md`](solutions/dsa/dsa_03_two_sum_hashmap.md) | ✅ Verified |
+| 7 | `DSA` | **Day 4: Frequency Counting (First Unique Character)** | `Intermediate` | +40 XP | [`dsa_04_first_unique_char.md`](solutions/dsa/dsa_04_first_unique_char.md) | ✅ Verified |
 
 ---
 
