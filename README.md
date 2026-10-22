@@ -6,15 +6,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Script Novice (Level 2)
-- **Total XP**: 190 pts
+- **Total XP**: 230 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 5
+- **Total Quests Solved**: 6
 
 ---
 
 ### 📚 Course Mastery Progress
 - **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
-- **🧠 DSA (Zero to Hero)**: 2/7 Quests (28%) ⏳
+- **🧠 DSA (Zero to Hero)**: 3/7 Quests (42%) ⏳
 - **🐍 Python Mastery**: 0/3 Quests (0%) ⏳
 - **🔍 SQL Detective**: 0/1 Quests (0%) ⏳
 - **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (5 Completed)
+### 📁 Solved Quests Directory (6 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -33,6 +33,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 3 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-22)** | `Beginner` | +45 XP | [`daily_2026-10-22_drill.md`](solutions/daily/daily_2026-10-22_drill.md) | ✅ Verified |
 | 4 | `DSA` | **Day 1: Array Traversal & Running Sum** | `Beginner` | +30 XP | [`dsa_01_running_sum.md`](solutions/dsa/dsa_01_running_sum.md) | ✅ Verified |
 | 5 | `DSA` | **Day 2: Two-Pointer Technique (Reverse List)** | `Beginner` | +35 XP | [`dsa_02_two_pointer_reverse.md`](solutions/dsa/dsa_02_two_pointer_reverse.md) | ✅ Verified |
+| 6 | `DSA` | **Day 3: Hash Maps for O(1) Lookup (Two Sum)** | `Beginner` | +40 XP | [`dsa_03_two_sum_hashmap.md`](solutions/dsa/dsa_03_two_sum_hashmap.md) | ✅ Verified |
 
 ---
 
