@@ -6,15 +6,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 3)
-- **Total XP**: 365 pts
+- **Total XP**: 420 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 9
+- **Total Quests Solved**: 10
 
 ---
 
 ### 📚 Course Mastery Progress
 - **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
-- **🧠 DSA (Zero to Hero)**: 6/7 Quests (85%) ⏳
+- **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 0/3 Quests (0%) ⏳
 - **🔍 SQL Detective**: 0/1 Quests (0%) ⏳
 - **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (9 Completed)
+### 📁 Solved Quests Directory (10 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -37,6 +37,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 7 | `DSA` | **Day 4: Frequency Counting (First Unique Character)** | `Intermediate` | +40 XP | [`dsa_04_first_unique_char.md`](solutions/dsa/dsa_04_first_unique_char.md) | ✅ Verified |
 | 8 | `DSA` | **Day 5: Stacks (Valid Matching Brackets)** | `Intermediate` | +45 XP | [`dsa_05_valid_parentheses.md`](solutions/dsa/dsa_05_valid_parentheses.md) | ✅ Verified |
 | 9 | `DSA` | **Day 6: Divide & Conquer (Binary Search)** | `Intermediate` | +50 XP | [`dsa_06_binary_search.md`](solutions/dsa/dsa_06_binary_search.md) | ✅ Verified |
+| 10 | `DSA` | **Day 7: Kadane's Algorithm (Max Subarray Sum)** | `Intermediate` | +55 XP | [`dsa_07_kadanes_max_subarray.md`](solutions/dsa/dsa_07_kadanes_max_subarray.md) | ✅ Verified |
 
 ---
 
