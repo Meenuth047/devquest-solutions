@@ -6,15 +6,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Script Novice (Level 2)
-- **Total XP**: 125 pts
+- **Total XP**: 155 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 3
+- **Total Quests Solved**: 4
 
 ---
 
 ### 📚 Course Mastery Progress
 - **🔥 Daily Quests**: 3 Daily Quests Completed 🔥
-- **🧠 DSA (Zero to Hero)**: 0/7 Quests (0%) ⏳
+- **🧠 DSA (Zero to Hero)**: 1/7 Quests (14%) ⏳
 - **🐍 Python Mastery**: 0/3 Quests (0%) ⏳
 - **🔍 SQL Detective**: 0/1 Quests (0%) ⏳
 - **🐧 Linux & Shell**: 0/1 Quests (0%) ⏳
@@ -24,13 +24,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (3 Completed)
+### 📁 Solved Quests Directory (4 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
 | 1 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Palindrome (Alphanumeric) (2026-10-16)** | `Beginner` | +40 XP | [`daily_2026-10-16_dsa.md`](solutions/daily/daily_2026-10-16_dsa.md) | ✅ Verified |
 | 2 | `🔥 Daily Quests` | **🔥 Today's DSA: Contains Duplicate (2026-10-22)** | `Beginner` | +40 XP | [`daily_2026-10-22_dsa.md`](solutions/daily/daily_2026-10-22_dsa.md) | ✅ Verified |
 | 3 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-22)** | `Beginner` | +45 XP | [`daily_2026-10-22_drill.md`](solutions/daily/daily_2026-10-22_drill.md) | ✅ Verified |
+| 4 | `DSA` | **Day 1: Array Traversal & Running Sum** | `Beginner` | +30 XP | [`dsa_01_running_sum.md`](solutions/dsa/dsa_01_running_sum.md) | ✅ Verified |
 
 ---
 
