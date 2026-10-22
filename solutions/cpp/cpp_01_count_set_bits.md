@@ -2,7 +2,7 @@
 
 - **Track**: C / C++
 - **Difficulty**: Intermediate
-- **Completed**: 2026-09-18 12:04:51 UTC
+- **Completed**: 2026-10-22 05:50:43 UTC
 - **XP Earned**: +45 pts
 
 ---
