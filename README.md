@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Syntax Adept (Level 5)
-- **Total XP**: 770 pts
+- **Total XP**: 810 pts
 - **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 19
+- **Total Quests Solved**: 20
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 4 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 5 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 2/3 Quests (66%) ⏳
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (19 Completed)
+### 📁 Solved Quests Directory (20 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -47,6 +47,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 17 | `Regex` | **Validate IPv4 Addresses** | `Beginner` | +30 XP | [`rg_01_ipv4.md`](solutions/regex/rg_01_ipv4.md) | ✅ Verified |
 | 18 | `Regex` | **Extract Markdown Link URLs** | `Intermediate` | +40 XP | [`rg_02_markdown_links.md`](solutions/regex/rg_02_markdown_links.md) | ✅ Verified |
 | 19 | `🔥 Daily Quests` | **🔥 Today's DSA: Climbing Stairs (Dynamic Programming) (2026-10-23)** | `Beginner` | +50 XP | [`daily_2026-10-23_dsa.md`](solutions/daily/daily_2026-10-23_dsa.md) | ✅ Verified |
+| 20 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-10-23)** | `Beginner` | +40 XP | [`daily_2026-10-23_drill.md`](solutions/daily/daily_2026-10-23_drill.md) | ✅ Verified |
 
 ---
 
