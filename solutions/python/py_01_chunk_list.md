@@ -2,7 +2,7 @@
 
 - **Track**: Python
 - **Difficulty**: Beginner
-- **Completed**: 2026-09-18 12:04:46 UTC
+- **Completed**: 2026-10-23 04:35:15 UTC
 - **XP Earned**: +30 pts
 
 ---
@@ -23,9 +23,8 @@ You are given a function that is supposed to partition a list into chunks of len
 
 ```python
 def chunk_list(items: list, chunk_size: int) -> list[list]:
-    # BUG: drops leftover elements when len(items) % chunk_size != 0
     result = []
-    for i in range(0, len(items) - chunk_size + 1, chunk_size):
+    for i in range(0, len(items), chunk_size):
         result.append(items[i : i + chunk_size])
     return result
 ```
