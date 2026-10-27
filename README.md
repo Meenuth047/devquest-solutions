@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Terminal Hacker (Level 6)
-- **Total XP**: 935 pts
-- **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 23
+- **Total XP**: 980 pts
+- **Daily Streak**: 2 Days 🔥
+- **Total Quests Solved**: 24
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 7 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 8 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (23 Completed)
+### 📁 Solved Quests Directory (24 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -51,6 +51,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 21 | `Python` | **Fix the Sublist Chunker** | `Beginner` | +30 XP | [`py_01_chunk_list.md`](solutions/python/py_01_chunk_list.md) | ✅ Verified |
 | 22 | `🔥 Daily Quests` | **🔥 Today's DSA: Best Time to Buy and Sell Stock (2026-10-26)** | `Beginner` | +50 XP | [`daily_2026-10-26_dsa.md`](solutions/daily/daily_2026-10-26_dsa.md) | ✅ Verified |
 | 23 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-10-26)** | `Beginner` | +45 XP | [`daily_2026-10-26_drill.md`](solutions/daily/daily_2026-10-26_drill.md) | ✅ Verified |
+| 24 | `🔥 Daily Quests` | **🔥 Today's DSA: Move Zeroes in Place (2026-10-27)** | `Beginner` | +45 XP | [`daily_2026-10-27_dsa.md`](solutions/daily/daily_2026-10-27_dsa.md) | ✅ Verified |
 
 ---
 
@@ -66,4 +67,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-10-26*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-10-27*
