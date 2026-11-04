@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Terminal Hacker (Level 8)
-- **Total XP**: 1490 pts
-- **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 35
+- **Total XP**: 1535 pts
+- **Daily Streak**: 3 Days 🔥
+- **Total Quests Solved**: 36
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 19 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 20 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (35 Completed)
+### 📁 Solved Quests Directory (36 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -63,6 +63,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 33 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-11-02)** | `Beginner` | +45 XP | [`daily_2026-11-02_drill.md`](solutions/daily/daily_2026-11-02_drill.md) | ✅ Verified |
 | 34 | `🔥 Daily Quests` | **🔥 Today's DSA: Maximum Subarray (Kadane's Algorithm) (2026-11-03)** | `Intermediate` | +55 XP | [`daily_2026-11-03_dsa.md`](solutions/daily/daily_2026-11-03_dsa.md) | ✅ Verified |
 | 35 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-03)** | `Intermediate` | +50 XP | [`daily_2026-11-03_drill.md`](solutions/daily/daily_2026-11-03_drill.md) | ✅ Verified |
+| 36 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-11-04)** | `Beginner` | +45 XP | [`daily_2026-11-04_dsa.md`](solutions/daily/daily_2026-11-04_dsa.md) | ✅ Verified |
 
 ---
 
@@ -78,4 +79,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-11-03*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-11-04*
