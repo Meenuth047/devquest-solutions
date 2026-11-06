@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Terminal Hacker (Level 9)
-- **Total XP**: 1625 pts
+- **Total XP**: 1665 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 38
+- **Total Quests Solved**: 39
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 22 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 23 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (38 Completed)
+### 📁 Solved Quests Directory (39 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -66,6 +66,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 36 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-11-04)** | `Beginner` | +45 XP | [`daily_2026-11-04_dsa.md`](solutions/daily/daily_2026-11-04_dsa.md) | ✅ Verified |
 | 37 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-11-04)** | `Beginner` | +40 XP | [`daily_2026-11-04_drill.md`](solutions/daily/daily_2026-11-04_drill.md) | ✅ Verified |
 | 38 | `🔥 Daily Quests` | **🔥 Today's DSA: Climbing Stairs (Dynamic Programming) (2026-11-06)** | `Beginner` | +50 XP | [`daily_2026-11-06_dsa.md`](solutions/daily/daily_2026-11-06_dsa.md) | ✅ Verified |
+| 39 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-11-06)** | `Beginner` | +40 XP | [`daily_2026-11-06_drill.md`](solutions/daily/daily_2026-11-06_drill.md) | ✅ Verified |
 
 ---
 
