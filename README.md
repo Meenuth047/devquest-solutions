@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Terminal Hacker (Level 9)
-- **Total XP**: 1815 pts
+- **Total XP**: 1855 pts
 - **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 42
+- **Total Quests Solved**: 43
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 26 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 27 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (42 Completed)
+### 📁 Solved Quests Directory (43 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -70,6 +70,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 40 | `🔥 Daily Quests` | **🔥 Today's DSA: Move Zeroes in Place (2026-11-10)** | `Beginner` | +45 XP | [`daily_2026-11-10_dsa.md`](solutions/daily/daily_2026-11-10_dsa.md) | ✅ Verified |
 | 41 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-10)** | `Intermediate` | +50 XP | [`daily_2026-11-10_drill.md`](solutions/daily/daily_2026-11-10_drill.md) | ✅ Verified |
 | 42 | `🔥 Daily Quests` | **🔥 Today's DSA: Single Number (The XOR Trick) (2026-11-11)** | `Intermediate` | +55 XP | [`daily_2026-11-11_dsa.md`](solutions/daily/daily_2026-11-11_dsa.md) | ✅ Verified |
+| 43 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-11-11)** | `Beginner` | +40 XP | [`daily_2026-11-11_drill.md`](solutions/daily/daily_2026-11-11_drill.md) | ✅ Verified |
 
 ---
 
