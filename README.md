@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Byte Sorcerer (Level 11)
-- **Total XP**: 2170 pts
+- **Total XP**: 2220 pts
 - **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 50
+- **Total Quests Solved**: 51
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 34 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 35 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (50 Completed)
+### 📁 Solved Quests Directory (51 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -78,6 +78,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 48 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Anagram (2026-11-16)** | `Beginner` | +45 XP | [`daily_2026-11-16_dsa.md`](solutions/daily/daily_2026-11-16_dsa.md) | ✅ Verified |
 | 49 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-11-16)** | `Beginner` | +45 XP | [`daily_2026-11-16_drill.md`](solutions/daily/daily_2026-11-16_drill.md) | ✅ Verified |
 | 50 | `🔥 Daily Quests` | **🔥 Today's DSA: Maximum Subarray (Kadane's Algorithm) (2026-11-17)** | `Intermediate` | +55 XP | [`daily_2026-11-17_dsa.md`](solutions/daily/daily_2026-11-17_dsa.md) | ✅ Verified |
+| 51 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-17)** | `Intermediate` | +50 XP | [`daily_2026-11-17_drill.md`](solutions/daily/daily_2026-11-17_drill.md) | ✅ Verified |
 
 ---
 
