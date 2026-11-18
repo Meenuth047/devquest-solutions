@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Byte Sorcerer (Level 12)
-- **Total XP**: 2490 pts
+- **Total XP**: 2530 pts
 - **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 57
+- **Total Quests Solved**: 58
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 41 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 42 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (57 Completed)
+### 📁 Solved Quests Directory (58 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -85,6 +85,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 55 | `🔥 Daily Quests` | **🔥 Quest 2: Valid Anagram (2026-11-18)** | `Beginner` | +45 XP | [`daily_2026-11-18_q2.md`](solutions/daily/daily_2026-11-18_q2.md) | ✅ Verified |
 | 56 | `🔥 Daily Quests` | **🔥 Quest 3: Brian Kernighan's Bit Counter (2026-11-18)** | `Intermediate` | +45 XP | [`daily_2026-11-18_q3.md`](solutions/daily/daily_2026-11-18_q3.md) | ✅ Verified |
 | 57 | `🔥 Daily Quests` | **🔥 Quest 4: Majority Element (Boyer-Moore Voting) (2026-11-18)** | `Intermediate` | +55 XP | [`daily_2026-11-18_q4.md`](solutions/daily/daily_2026-11-18_q4.md) | ✅ Verified |
+| 58 | `🔥 Daily Quests` | **🔥 Quest 5: Word Frequency Counter (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_q5.md`](solutions/daily/daily_2026-11-18_q5.md) | ✅ Verified |
 
 ---
 
