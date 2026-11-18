@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Byte Sorcerer (Level 11)
-- **Total XP**: 2265 pts
+- **Total XP**: 2305 pts
 - **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 52
+- **Total Quests Solved**: 53
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 36 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 37 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (52 Completed)
+### 📁 Solved Quests Directory (53 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -80,6 +80,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 50 | `🔥 Daily Quests` | **🔥 Today's DSA: Maximum Subarray (Kadane's Algorithm) (2026-11-17)** | `Intermediate` | +55 XP | [`daily_2026-11-17_dsa.md`](solutions/daily/daily_2026-11-17_dsa.md) | ✅ Verified |
 | 51 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-17)** | `Intermediate` | +50 XP | [`daily_2026-11-17_drill.md`](solutions/daily/daily_2026-11-17_drill.md) | ✅ Verified |
 | 52 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-11-18)** | `Beginner` | +45 XP | [`daily_2026-11-18_dsa.md`](solutions/daily/daily_2026-11-18_dsa.md) | ✅ Verified |
+| 53 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_drill.md`](solutions/daily/daily_2026-11-18_drill.md) | ✅ Verified |
 
 ---
 
