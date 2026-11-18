@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Byte Sorcerer (Level 11)
-- **Total XP**: 2305 pts
+- **Total XP**: 2345 pts
 - **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 53
+- **Total Quests Solved**: 54
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 37 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 38 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,13 +24,13 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (53 Completed)
+### 📁 Solved Quests Directory (54 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
-| 1 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Palindrome (Alphanumeric) (2026-10-16)** | `Beginner` | +40 XP | [`daily_2026-10-16_dsa.md`](solutions/daily/daily_2026-10-16_dsa.md) | ✅ Verified |
-| 2 | `🔥 Daily Quests` | **🔥 Today's DSA: Contains Duplicate (2026-10-22)** | `Beginner` | +40 XP | [`daily_2026-10-22_dsa.md`](solutions/daily/daily_2026-10-22_dsa.md) | ✅ Verified |
-| 3 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-22)** | `Beginner` | +45 XP | [`daily_2026-10-22_drill.md`](solutions/daily/daily_2026-10-22_drill.md) | ✅ Verified |
+| 1 | `🔥 Daily Quests` | **🔥 Quest 1: Move Zeroes in Place (2026-10-16)** | `Beginner` | +45 XP | [`daily_2026-10-16_q1.md`](solutions/daily/daily_2026-10-16_q1.md) | ✅ Verified |
+| 2 | `🔥 Daily Quests` | **🔥 Quest 1: Squares of a Sorted Array (2026-10-22)** | `Beginner` | +40 XP | [`daily_2026-10-22_q1.md`](solutions/daily/daily_2026-10-22_q1.md) | ✅ Verified |
+| 3 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hex Color Codes (Regex) (2026-10-22)** | `Beginner` | +40 XP | [`daily_2026-10-22_q7.md`](solutions/daily/daily_2026-10-22_q7.md) | ✅ Verified |
 | 4 | `DSA` | **Day 1: Array Traversal & Running Sum** | `Beginner` | +30 XP | [`dsa_01_running_sum.md`](solutions/dsa/dsa_01_running_sum.md) | ✅ Verified |
 | 5 | `DSA` | **Day 2: Two-Pointer Technique (Reverse List)** | `Beginner` | +35 XP | [`dsa_02_two_pointer_reverse.md`](solutions/dsa/dsa_02_two_pointer_reverse.md) | ✅ Verified |
 | 6 | `DSA` | **Day 3: Hash Maps for O(1) Lookup (Two Sum)** | `Beginner` | +40 XP | [`dsa_03_two_sum_hashmap.md`](solutions/dsa/dsa_03_two_sum_hashmap.md) | ✅ Verified |
@@ -46,41 +46,42 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 16 | `C / C++` | **Brian Kernighan's Bit Counter** | `Intermediate` | +45 XP | [`cpp_01_count_set_bits.md`](solutions/cpp/cpp_01_count_set_bits.md) | ✅ Verified |
 | 17 | `Regex` | **Validate IPv4 Addresses** | `Beginner` | +30 XP | [`rg_01_ipv4.md`](solutions/regex/rg_01_ipv4.md) | ✅ Verified |
 | 18 | `Regex` | **Extract Markdown Link URLs** | `Intermediate` | +40 XP | [`rg_02_markdown_links.md`](solutions/regex/rg_02_markdown_links.md) | ✅ Verified |
-| 19 | `🔥 Daily Quests` | **🔥 Today's DSA: Climbing Stairs (Dynamic Programming) (2026-10-23)** | `Beginner` | +50 XP | [`daily_2026-10-23_dsa.md`](solutions/daily/daily_2026-10-23_dsa.md) | ✅ Verified |
-| 20 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-10-23)** | `Beginner` | +40 XP | [`daily_2026-10-23_drill.md`](solutions/daily/daily_2026-10-23_drill.md) | ✅ Verified |
+| 19 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-10-23)** | `Beginner` | +45 XP | [`daily_2026-10-23_q1.md`](solutions/daily/daily_2026-10-23_q1.md) | ✅ Verified |
+| 20 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Markdown Image URLs (Regex) (2026-10-23)** | `Beginner` | +40 XP | [`daily_2026-10-23_q7.md`](solutions/daily/daily_2026-10-23_q7.md) | ✅ Verified |
 | 21 | `Python` | **Fix the Sublist Chunker** | `Beginner` | +30 XP | [`py_01_chunk_list.md`](solutions/python/py_01_chunk_list.md) | ✅ Verified |
-| 22 | `🔥 Daily Quests` | **🔥 Today's DSA: Best Time to Buy and Sell Stock (2026-10-26)** | `Beginner` | +50 XP | [`daily_2026-10-26_dsa.md`](solutions/daily/daily_2026-10-26_dsa.md) | ✅ Verified |
-| 23 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-10-26)** | `Beginner` | +45 XP | [`daily_2026-10-26_drill.md`](solutions/daily/daily_2026-10-26_drill.md) | ✅ Verified |
-| 24 | `🔥 Daily Quests` | **🔥 Today's DSA: Move Zeroes in Place (2026-10-27)** | `Beginner` | +45 XP | [`daily_2026-10-27_dsa.md`](solutions/daily/daily_2026-10-27_dsa.md) | ✅ Verified |
-| 25 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-10-27)** | `Intermediate` | +50 XP | [`daily_2026-10-27_drill.md`](solutions/daily/daily_2026-10-27_drill.md) | ✅ Verified |
-| 26 | `🔥 Daily Quests` | **🔥 Today's DSA: Single Number (The XOR Trick) (2026-10-28)** | `Intermediate` | +55 XP | [`daily_2026-10-28_dsa.md`](solutions/daily/daily_2026-10-28_dsa.md) | ✅ Verified |
-| 27 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-10-28)** | `Beginner` | +40 XP | [`daily_2026-10-28_drill.md`](solutions/daily/daily_2026-10-28_drill.md) | ✅ Verified |
-| 28 | `🔥 Daily Quests` | **🔥 Today's DSA: Longest Common Prefix (2026-10-29)** | `Beginner` | +45 XP | [`daily_2026-10-29_dsa.md`](solutions/daily/daily_2026-10-29_dsa.md) | ✅ Verified |
-| 29 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-10-29)** | `Beginner` | +45 XP | [`daily_2026-10-29_drill.md`](solutions/daily/daily_2026-10-29_drill.md) | ✅ Verified |
-| 30 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Palindrome (Alphanumeric) (2026-10-30)** | `Beginner` | +40 XP | [`daily_2026-10-30_dsa.md`](solutions/daily/daily_2026-10-30_dsa.md) | ✅ Verified |
-| 31 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-10-30)** | `Beginner` | +40 XP | [`daily_2026-10-30_drill.md`](solutions/daily/daily_2026-10-30_drill.md) | ✅ Verified |
-| 32 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Anagram (2026-11-02)** | `Beginner` | +45 XP | [`daily_2026-11-02_dsa.md`](solutions/daily/daily_2026-11-02_dsa.md) | ✅ Verified |
-| 33 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-11-02)** | `Beginner` | +45 XP | [`daily_2026-11-02_drill.md`](solutions/daily/daily_2026-11-02_drill.md) | ✅ Verified |
-| 34 | `🔥 Daily Quests` | **🔥 Today's DSA: Maximum Subarray (Kadane's Algorithm) (2026-11-03)** | `Intermediate` | +55 XP | [`daily_2026-11-03_dsa.md`](solutions/daily/daily_2026-11-03_dsa.md) | ✅ Verified |
-| 35 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-03)** | `Intermediate` | +50 XP | [`daily_2026-11-03_drill.md`](solutions/daily/daily_2026-11-03_drill.md) | ✅ Verified |
-| 36 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-11-04)** | `Beginner` | +45 XP | [`daily_2026-11-04_dsa.md`](solutions/daily/daily_2026-11-04_dsa.md) | ✅ Verified |
-| 37 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-11-04)** | `Beginner` | +40 XP | [`daily_2026-11-04_drill.md`](solutions/daily/daily_2026-11-04_drill.md) | ✅ Verified |
-| 38 | `🔥 Daily Quests` | **🔥 Today's DSA: Climbing Stairs (Dynamic Programming) (2026-11-06)** | `Beginner` | +50 XP | [`daily_2026-11-06_dsa.md`](solutions/daily/daily_2026-11-06_dsa.md) | ✅ Verified |
-| 39 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-11-06)** | `Beginner` | +40 XP | [`daily_2026-11-06_drill.md`](solutions/daily/daily_2026-11-06_drill.md) | ✅ Verified |
-| 40 | `🔥 Daily Quests` | **🔥 Today's DSA: Move Zeroes in Place (2026-11-10)** | `Beginner` | +45 XP | [`daily_2026-11-10_dsa.md`](solutions/daily/daily_2026-11-10_dsa.md) | ✅ Verified |
-| 41 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-10)** | `Intermediate` | +50 XP | [`daily_2026-11-10_drill.md`](solutions/daily/daily_2026-11-10_drill.md) | ✅ Verified |
-| 42 | `🔥 Daily Quests` | **🔥 Today's DSA: Single Number (The XOR Trick) (2026-11-11)** | `Intermediate` | +55 XP | [`daily_2026-11-11_dsa.md`](solutions/daily/daily_2026-11-11_dsa.md) | ✅ Verified |
-| 43 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-11-11)** | `Beginner` | +40 XP | [`daily_2026-11-11_drill.md`](solutions/daily/daily_2026-11-11_drill.md) | ✅ Verified |
-| 44 | `🔥 Daily Quests` | **🔥 Today's DSA: Longest Common Prefix (2026-11-12)** | `Beginner` | +45 XP | [`daily_2026-11-12_dsa.md`](solutions/daily/daily_2026-11-12_dsa.md) | ✅ Verified |
-| 45 | `🔥 Daily Quests` | **⚡ Today's Drill: Customers Who Never Order (SQL) (2026-11-12)** | `Beginner` | +45 XP | [`daily_2026-11-12_drill.md`](solutions/daily/daily_2026-11-12_drill.md) | ✅ Verified |
-| 46 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Palindrome (Alphanumeric) (2026-11-13)** | `Beginner` | +40 XP | [`daily_2026-11-13_dsa.md`](solutions/daily/daily_2026-11-13_dsa.md) | ✅ Verified |
-| 47 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Markdown Image URLs (Regex) (2026-11-13)** | `Beginner` | +40 XP | [`daily_2026-11-13_drill.md`](solutions/daily/daily_2026-11-13_drill.md) | ✅ Verified |
-| 48 | `🔥 Daily Quests` | **🔥 Today's DSA: Valid Anagram (2026-11-16)** | `Beginner` | +45 XP | [`daily_2026-11-16_dsa.md`](solutions/daily/daily_2026-11-16_dsa.md) | ✅ Verified |
-| 49 | `🔥 Daily Quests` | **⚡ Today's Drill: Find Duplicate Emails (SQL) (2026-11-16)** | `Beginner` | +45 XP | [`daily_2026-11-16_drill.md`](solutions/daily/daily_2026-11-16_drill.md) | ✅ Verified |
-| 50 | `🔥 Daily Quests` | **🔥 Today's DSA: Maximum Subarray (Kadane's Algorithm) (2026-11-17)** | `Intermediate` | +55 XP | [`daily_2026-11-17_dsa.md`](solutions/daily/daily_2026-11-17_dsa.md) | ✅ Verified |
-| 51 | `🔥 Daily Quests` | **⚡ Today's Drill: Second Highest Salary (SQL) (2026-11-17)** | `Intermediate` | +50 XP | [`daily_2026-11-17_drill.md`](solutions/daily/daily_2026-11-17_drill.md) | ✅ Verified |
-| 52 | `🔥 Daily Quests` | **🔥 Today's DSA: Missing Number in Range [0, n] (2026-11-18)** | `Beginner` | +45 XP | [`daily_2026-11-18_dsa.md`](solutions/daily/daily_2026-11-18_dsa.md) | ✅ Verified |
-| 53 | `🔥 Daily Quests` | **⚡ Today's Drill: Extract Hex Color Codes (Regex) (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_drill.md`](solutions/daily/daily_2026-11-18_drill.md) | ✅ Verified |
+| 22 | `🔥 Daily Quests` | **🔥 Quest 1: Squares of a Sorted Array (2026-10-26)** | `Beginner` | +40 XP | [`daily_2026-10-26_q1.md`](solutions/daily/daily_2026-10-26_q1.md) | ✅ Verified |
+| 23 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Domain Names (Regex) (2026-10-26)** | `Beginner` | +40 XP | [`daily_2026-10-26_q7.md`](solutions/daily/daily_2026-10-26_q7.md) | ✅ Verified |
+| 24 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-10-27)** | `Beginner` | +45 XP | [`daily_2026-10-27_q1.md`](solutions/daily/daily_2026-10-27_q1.md) | ✅ Verified |
+| 25 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hex Color Codes (Regex) (2026-10-27)** | `Beginner` | +40 XP | [`daily_2026-10-27_q7.md`](solutions/daily/daily_2026-10-27_q7.md) | ✅ Verified |
+| 26 | `🔥 Daily Quests` | **🔥 Quest 1: Move Zeroes in Place (2026-10-28)** | `Beginner` | +45 XP | [`daily_2026-10-28_q1.md`](solutions/daily/daily_2026-10-28_q1.md) | ✅ Verified |
+| 27 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Markdown Image URLs (Regex) (2026-10-28)** | `Beginner` | +40 XP | [`daily_2026-10-28_q7.md`](solutions/daily/daily_2026-10-28_q7.md) | ✅ Verified |
+| 28 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-10-29)** | `Beginner` | +40 XP | [`daily_2026-10-29_q1.md`](solutions/daily/daily_2026-10-29_q1.md) | ✅ Verified |
+| 29 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hashtags from Text (Regex) (2026-10-29)** | `Beginner` | +40 XP | [`daily_2026-10-29_q7.md`](solutions/daily/daily_2026-10-29_q7.md) | ✅ Verified |
+| 30 | `🔥 Daily Quests` | **🔥 Quest 1: Squares of a Sorted Array (2026-10-30)** | `Beginner` | +40 XP | [`daily_2026-10-30_q1.md`](solutions/daily/daily_2026-10-30_q1.md) | ✅ Verified |
+| 31 | `🔥 Daily Quests` | **🔥 Quest 7: Extract ISO Dates (Regex) (2026-10-30)** | `Beginner` | +40 XP | [`daily_2026-10-30_q7.md`](solutions/daily/daily_2026-10-30_q7.md) | ✅ Verified |
+| 32 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-02)** | `Beginner` | +40 XP | [`daily_2026-11-02_q1.md`](solutions/daily/daily_2026-11-02_q1.md) | ✅ Verified |
+| 33 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Markdown Image URLs (Regex) (2026-11-02)** | `Beginner` | +40 XP | [`daily_2026-11-02_q7.md`](solutions/daily/daily_2026-11-02_q7.md) | ✅ Verified |
+| 34 | `🔥 Daily Quests` | **🔥 Quest 1: Squares of a Sorted Array (2026-11-03)** | `Beginner` | +40 XP | [`daily_2026-11-03_q1.md`](solutions/daily/daily_2026-11-03_q1.md) | ✅ Verified |
+| 35 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hashtags from Text (Regex) (2026-11-03)** | `Beginner` | +40 XP | [`daily_2026-11-03_q7.md`](solutions/daily/daily_2026-11-03_q7.md) | ✅ Verified |
+| 36 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-11-04)** | `Beginner` | +45 XP | [`daily_2026-11-04_q1.md`](solutions/daily/daily_2026-11-04_q1.md) | ✅ Verified |
+| 37 | `🔥 Daily Quests` | **🔥 Quest 7: Extract ISO Dates (Regex) (2026-11-04)** | `Beginner` | +40 XP | [`daily_2026-11-04_q7.md`](solutions/daily/daily_2026-11-04_q7.md) | ✅ Verified |
+| 38 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-06)** | `Beginner` | +40 XP | [`daily_2026-11-06_q1.md`](solutions/daily/daily_2026-11-06_q1.md) | ✅ Verified |
+| 39 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hex Color Codes (Regex) (2026-11-06)** | `Beginner` | +40 XP | [`daily_2026-11-06_q7.md`](solutions/daily/daily_2026-11-06_q7.md) | ✅ Verified |
+| 40 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-10)** | `Beginner` | +40 XP | [`daily_2026-11-10_q1.md`](solutions/daily/daily_2026-11-10_q1.md) | ✅ Verified |
+| 41 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Domain Names (Regex) (2026-11-10)** | `Beginner` | +40 XP | [`daily_2026-11-10_q7.md`](solutions/daily/daily_2026-11-10_q7.md) | ✅ Verified |
+| 42 | `🔥 Daily Quests` | **🔥 Quest 1: Squares of a Sorted Array (2026-11-11)** | `Beginner` | +40 XP | [`daily_2026-11-11_q1.md`](solutions/daily/daily_2026-11-11_q1.md) | ✅ Verified |
+| 43 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hex Color Codes (Regex) (2026-11-11)** | `Beginner` | +40 XP | [`daily_2026-11-11_q7.md`](solutions/daily/daily_2026-11-11_q7.md) | ✅ Verified |
+| 44 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-11-12)** | `Beginner` | +45 XP | [`daily_2026-11-12_q1.md`](solutions/daily/daily_2026-11-12_q1.md) | ✅ Verified |
+| 45 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Markdown Image URLs (Regex) (2026-11-12)** | `Beginner` | +40 XP | [`daily_2026-11-12_q7.md`](solutions/daily/daily_2026-11-12_q7.md) | ✅ Verified |
+| 46 | `🔥 Daily Quests` | **🔥 Quest 1: Move Zeroes in Place (2026-11-13)** | `Beginner` | +45 XP | [`daily_2026-11-13_q1.md`](solutions/daily/daily_2026-11-13_q1.md) | ✅ Verified |
+| 47 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hashtags from Text (Regex) (2026-11-13)** | `Beginner` | +40 XP | [`daily_2026-11-13_q7.md`](solutions/daily/daily_2026-11-13_q7.md) | ✅ Verified |
+| 48 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-11-16)** | `Beginner` | +45 XP | [`daily_2026-11-16_q1.md`](solutions/daily/daily_2026-11-16_q1.md) | ✅ Verified |
+| 49 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hex Color Codes (Regex) (2026-11-16)** | `Beginner` | +40 XP | [`daily_2026-11-16_q7.md`](solutions/daily/daily_2026-11-16_q7.md) | ✅ Verified |
+| 50 | `🔥 Daily Quests` | **🔥 Quest 1: Move Zeroes in Place (2026-11-17)** | `Beginner` | +45 XP | [`daily_2026-11-17_q1.md`](solutions/daily/daily_2026-11-17_q1.md) | ✅ Verified |
+| 51 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Markdown Image URLs (Regex) (2026-11-17)** | `Beginner` | +40 XP | [`daily_2026-11-17_q7.md`](solutions/daily/daily_2026-11-17_q7.md) | ✅ Verified |
+| 52 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_q1.md`](solutions/daily/daily_2026-11-18_q1.md) | ✅ Verified |
+| 53 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hashtags from Text (Regex) (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_q7.md`](solutions/daily/daily_2026-11-18_q7.md) | ✅ Verified |
+| 54 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_q1.md`](solutions/daily/daily_2026-11-18_q1.md) | ✅ Verified |
 
 ---
 
