@@ -5,15 +5,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Byte Sorcerer (Level 13)
-- **Total XP**: 3030 pts
+- **Rank**: Byte Sorcerer (Level 14)
+- **Total XP**: 3070 pts
 - **Daily Streak**: 1 Days 🔥
-- **Total Quests Solved**: 69
+- **Total Quests Solved**: 70
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 53 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 54 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (69 Completed)
+### 📁 Solved Quests Directory (70 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -97,6 +97,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 67 | `🔥 Daily Quests` | **🔥 Quest 4: Maximum Subarray (Kadane's Algorithm) (2026-11-20)** | `Intermediate` | +55 XP | [`daily_2026-11-20_q4.md`](solutions/daily/daily_2026-11-20_q4.md) | ✅ Verified |
 | 68 | `🔥 Daily Quests` | **🔥 Quest 5: Safe Default Arguments Trap (2026-11-20)** | `Beginner` | +40 XP | [`daily_2026-11-20_q5.md`](solutions/daily/daily_2026-11-20_q5.md) | ✅ Verified |
 | 69 | `🔥 Daily Quests` | **🔥 Quest 6: Deep Flatten Arbitrary Nesting (2026-11-20)** | `Intermediate` | +50 XP | [`daily_2026-11-20_q6.md`](solutions/daily/daily_2026-11-20_q6.md) | ✅ Verified |
+| 70 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Domain Names (Regex) (2026-11-20)** | `Beginner` | +40 XP | [`daily_2026-11-20_q7.md`](solutions/daily/daily_2026-11-20_q7.md) | ✅ Verified |
 
 ---
 
