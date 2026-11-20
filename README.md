@@ -5,15 +5,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Byte Sorcerer (Level 12)
-- **Total XP**: 2740 pts
-- **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 63
+- **Rank**: Byte Sorcerer (Level 13)
+- **Total XP**: 2785 pts
+- **Daily Streak**: 1 Days 🔥
+- **Total Quests Solved**: 64
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 47 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 48 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (63 Completed)
+### 📁 Solved Quests Directory (64 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -91,6 +91,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 61 | `🔥 Daily Quests` | **🔥 Quest 8: Validate IPv4 Addresses (Regex) (2026-11-18)** | `Intermediate` | +45 XP | [`daily_2026-11-18_q8.md`](solutions/daily/daily_2026-11-18_q8.md) | ✅ Verified |
 | 62 | `🔥 Daily Quests` | **🔥 Quest 9: High-Value Top Spenders (SQL) (2026-11-18)** | `Intermediate` | +45 XP | [`daily_2026-11-18_q9.md`](solutions/daily/daily_2026-11-18_q9.md) | ✅ Verified |
 | 63 | `🔥 Daily Quests` | **🔥 Quest 10: Unix Permissions Translator (2026-11-18)** | `Beginner` | +40 XP | [`daily_2026-11-18_q10.md`](solutions/daily/daily_2026-11-18_q10.md) | ✅ Verified |
+| 64 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-11-20)** | `Beginner` | +45 XP | [`daily_2026-11-20_q1.md`](solutions/daily/daily_2026-11-20_q1.md) | ✅ Verified |
 
 ---
 
@@ -106,4 +107,4 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-11-18*
+*Generated automatically by [DevQuest TUI](https://github.com/meenuth047/devquest-solutions) on 2026-11-20*
