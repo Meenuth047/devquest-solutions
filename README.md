@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 16)
-- **Total XP**: 3920 pts
+- **Total XP**: 3965 pts
 - **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 90
+- **Total Quests Solved**: 91
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 74 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 75 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (90 Completed)
+### 📁 Solved Quests Directory (91 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -118,6 +118,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 88 | `🔥 Daily Quests` | **🔥 Quest 5: Safe Default Arguments Trap (2026-11-24)** | `Beginner` | +40 XP | [`daily_2026-11-24_q5.md`](solutions/daily/daily_2026-11-24_q5.md) | ✅ Verified |
 | 89 | `🔥 Daily Quests` | **🔥 Quest 6: Deep Flatten Arbitrary Nesting (2026-11-24)** | `Intermediate` | +50 XP | [`daily_2026-11-24_q6.md`](solutions/daily/daily_2026-11-24_q6.md) | ✅ Verified |
 | 90 | `🔥 Daily Quests` | **🔥 Quest 7: Extract ISO Dates (Regex) (2026-11-24)** | `Beginner` | +40 XP | [`daily_2026-11-24_q7.md`](solutions/daily/daily_2026-11-24_q7.md) | ✅ Verified |
+| 91 | `🔥 Daily Quests` | **🔥 Quest 8: Validate IPv4 Addresses (Regex) (2026-11-24)** | `Intermediate` | +45 XP | [`daily_2026-11-24_q8.md`](solutions/daily/daily_2026-11-24_q8.md) | ✅ Verified |
 
 ---
 
