@@ -5,15 +5,15 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 ---
 
 ### 🏆 Player Profile & Stats
-- **Rank**: Grand Architect (Level 15)
-- **Total XP**: 3670 pts
+- **Rank**: Grand Architect (Level 16)
+- **Total XP**: 3710 pts
 - **Daily Streak**: 2 Days 🔥
-- **Total Quests Solved**: 84
+- **Total Quests Solved**: 85
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 68 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 69 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (84 Completed)
+### 📁 Solved Quests Directory (85 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -112,6 +112,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 82 | `🔥 Daily Quests` | **🔥 Quest 9: Count Orders by Status (SQL) (2026-11-23)** | `Beginner` | +40 XP | [`daily_2026-11-23_q9.md`](solutions/daily/daily_2026-11-23_q9.md) | ✅ Verified |
 | 83 | `🔥 Daily Quests` | **🔥 Quest 10: Deduplicate List Preserving Order (2026-11-23)** | `Beginner` | +40 XP | [`daily_2026-11-23_q10.md`](solutions/daily/daily_2026-11-23_q10.md) | ✅ Verified |
 | 84 | `🔥 Daily Quests` | **🔥 Quest 1: Merge Two Sorted Arrays (2026-11-24)** | `Beginner` | +45 XP | [`daily_2026-11-24_q1.md`](solutions/daily/daily_2026-11-24_q1.md) | ✅ Verified |
+| 85 | `🔥 Daily Quests` | **🔥 Quest 2: Contains Duplicate (2026-11-24)** | `Beginner` | +40 XP | [`daily_2026-11-24_q2.md`](solutions/daily/daily_2026-11-24_q2.md) | ✅ Verified |
 
 ---
 
