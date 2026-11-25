@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 17)
-- **Total XP**: 4105 pts
+- **Total XP**: 4150 pts
 - **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 94
+- **Total Quests Solved**: 95
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 78 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 79 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (94 Completed)
+### 📁 Solved Quests Directory (95 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -122,6 +122,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 92 | `🔥 Daily Quests` | **🔥 Quest 9: Find Duplicate Emails (SQL) (2026-11-24)** | `Beginner` | +45 XP | [`daily_2026-11-24_q9.md`](solutions/daily/daily_2026-11-24_q9.md) | ✅ Verified |
 | 93 | `🔥 Daily Quests` | **🔥 Quest 10: Second Highest Salary (SQL) (2026-11-24)** | `Intermediate` | +50 XP | [`daily_2026-11-24_q10.md`](solutions/daily/daily_2026-11-24_q10.md) | ✅ Verified |
 | 94 | `🔥 Daily Quests` | **🔥 Quest 1: Move Zeroes in Place (2026-11-25)** | `Beginner` | +45 XP | [`daily_2026-11-25_q1.md`](solutions/daily/daily_2026-11-25_q1.md) | ✅ Verified |
+| 95 | `🔥 Daily Quests` | **🔥 Quest 2: Longest Common Prefix (2026-11-25)** | `Beginner` | +45 XP | [`daily_2026-11-25_q2.md`](solutions/daily/daily_2026-11-25_q2.md) | ✅ Verified |
 
 ---
 
