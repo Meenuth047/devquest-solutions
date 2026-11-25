@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 17)
-- **Total XP**: 4300 pts
+- **Total XP**: 4335 pts
 - **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 98
+- **Total Quests Solved**: 99
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 82 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 83 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (98 Completed)
+### 📁 Solved Quests Directory (99 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -126,6 +126,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 96 | `🔥 Daily Quests` | **🔥 Quest 3: Single Number (The XOR Trick) (2026-11-25)** | `Intermediate` | +55 XP | [`daily_2026-11-25_q3.md`](solutions/daily/daily_2026-11-25_q3.md) | ✅ Verified |
 | 97 | `🔥 Daily Quests` | **🔥 Quest 4: Maximum Subarray (Kadane's Algorithm) (2026-11-25)** | `Intermediate` | +55 XP | [`daily_2026-11-25_q4.md`](solutions/daily/daily_2026-11-25_q4.md) | ✅ Verified |
 | 98 | `🔥 Daily Quests` | **🔥 Quest 5: Fix the Sublist Chunker (2026-11-25)** | `Beginner` | +40 XP | [`daily_2026-11-25_q5.md`](solutions/daily/daily_2026-11-25_q5.md) | ✅ Verified |
+| 99 | `🔥 Daily Quests` | **🔥 Quest 6: Invert Dictionary Keys and Values (2026-11-25)** | `Beginner` | +35 XP | [`daily_2026-11-25_q6.md`](solutions/daily/daily_2026-11-25_q6.md) | ✅ Verified |
 
 ---
 
