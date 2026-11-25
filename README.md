@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 18)
-- **Total XP**: 4375 pts
+- **Total XP**: 4415 pts
 - **Daily Streak**: 3 Days 🔥
-- **Total Quests Solved**: 100
+- **Total Quests Solved**: 101
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 84 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 85 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (100 Completed)
+### 📁 Solved Quests Directory (101 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -128,6 +128,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 98 | `🔥 Daily Quests` | **🔥 Quest 5: Fix the Sublist Chunker (2026-11-25)** | `Beginner` | +40 XP | [`daily_2026-11-25_q5.md`](solutions/daily/daily_2026-11-25_q5.md) | ✅ Verified |
 | 99 | `🔥 Daily Quests` | **🔥 Quest 6: Invert Dictionary Keys and Values (2026-11-25)** | `Beginner` | +35 XP | [`daily_2026-11-25_q6.md`](solutions/daily/daily_2026-11-25_q6.md) | ✅ Verified |
 | 100 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Domain Names (Regex) (2026-11-25)** | `Beginner` | +40 XP | [`daily_2026-11-25_q7.md`](solutions/daily/daily_2026-11-25_q7.md) | ✅ Verified |
+| 101 | `🔥 Daily Quests` | **🔥 Quest 8: Extract Markdown Links (Regex) (2026-11-25)** | `Beginner` | +40 XP | [`daily_2026-11-25_q8.md`](solutions/daily/daily_2026-11-25_q8.md) | ✅ Verified |
 
 ---
 
