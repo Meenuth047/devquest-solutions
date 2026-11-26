@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 18)
-- **Total XP**: 4540 pts
+- **Total XP**: 4580 pts
 - **Daily Streak**: 4 Days 🔥
-- **Total Quests Solved**: 104
+- **Total Quests Solved**: 105
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 88 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 89 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (104 Completed)
+### 📁 Solved Quests Directory (105 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -132,6 +132,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 102 | `🔥 Daily Quests` | **🔥 Quest 9: Products with High Stock (SQL) (2026-11-25)** | `Beginner` | +40 XP | [`daily_2026-11-25_q9.md`](solutions/daily/daily_2026-11-25_q9.md) | ✅ Verified |
 | 103 | `🔥 Daily Quests` | **🔥 Quest 10: Customers Who Never Order (SQL) (2026-11-25)** | `Beginner` | +45 XP | [`daily_2026-11-25_q10.md`](solutions/daily/daily_2026-11-25_q10.md) | ✅ Verified |
 | 104 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q1.md`](solutions/daily/daily_2026-11-26_q1.md) | ✅ Verified |
+| 105 | `🔥 Daily Quests` | **🔥 Quest 2: Valid Palindrome (Alphanumeric) (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q2.md`](solutions/daily/daily_2026-11-26_q2.md) | ✅ Verified |
 
 ---
 
