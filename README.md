@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 18)
-- **Total XP**: 4625 pts
+- **Total XP**: 4675 pts
 - **Daily Streak**: 4 Days 🔥
-- **Total Quests Solved**: 106
+- **Total Quests Solved**: 107
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 90 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 91 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (106 Completed)
+### 📁 Solved Quests Directory (107 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -134,6 +134,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 104 | `🔥 Daily Quests` | **🔥 Quest 1: Reverse String in Place (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q1.md`](solutions/daily/daily_2026-11-26_q1.md) | ✅ Verified |
 | 105 | `🔥 Daily Quests` | **🔥 Quest 2: Valid Palindrome (Alphanumeric) (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q2.md`](solutions/daily/daily_2026-11-26_q2.md) | ✅ Verified |
 | 106 | `🔥 Daily Quests` | **🔥 Quest 3: Missing Number in Range [0, n] (2026-11-26)** | `Beginner` | +45 XP | [`daily_2026-11-26_q3.md`](solutions/daily/daily_2026-11-26_q3.md) | ✅ Verified |
+| 107 | `🔥 Daily Quests` | **🔥 Quest 4: Climbing Stairs (Dynamic Programming) (2026-11-26)** | `Beginner` | +50 XP | [`daily_2026-11-26_q4.md`](solutions/daily/daily_2026-11-26_q4.md) | ✅ Verified |
 
 ---
 
