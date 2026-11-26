@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 19)
-- **Total XP**: 4835 pts
+- **Total XP**: 4880 pts
 - **Daily Streak**: 4 Days 🔥
-- **Total Quests Solved**: 111
+- **Total Quests Solved**: 112
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 95 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 96 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (111 Completed)
+### 📁 Solved Quests Directory (112 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -139,6 +139,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 109 | `🔥 Daily Quests` | **🔥 Quest 6: Merge Dictionaries with Value Summing (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q6.md`](solutions/daily/daily_2026-11-26_q6.md) | ✅ Verified |
 | 110 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Hex Color Codes (Regex) (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q7.md`](solutions/daily/daily_2026-11-26_q7.md) | ✅ Verified |
 | 111 | `🔥 Daily Quests` | **🔥 Quest 8: Validate US Phone Numbers (Regex) (2026-11-26)** | `Beginner` | +40 XP | [`daily_2026-11-26_q8.md`](solutions/daily/daily_2026-11-26_q8.md) | ✅ Verified |
+| 112 | `🔥 Daily Quests` | **🔥 Quest 9: High-Value Top Spenders (SQL) (2026-11-26)** | `Intermediate` | +45 XP | [`daily_2026-11-26_q9.md`](solutions/daily/daily_2026-11-26_q9.md) | ✅ Verified |
 
 ---
 
