@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 20)
-- **Total XP**: 5095 pts
+- **Total XP**: 5130 pts
 - **Daily Streak**: 5 Days 🔥
-- **Total Quests Solved**: 117
+- **Total Quests Solved**: 118
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 101 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 102 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (117 Completed)
+### 📁 Solved Quests Directory (118 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -145,6 +145,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 115 | `🔥 Daily Quests` | **🔥 Quest 2: Two Sum (Hash Map O(N)) (2026-11-27)** | `Beginner` | +45 XP | [`daily_2026-11-27_q2.md`](solutions/daily/daily_2026-11-27_q2.md) | ✅ Verified |
 | 116 | `🔥 Daily Quests` | **🔥 Quest 3: Binary Search in Sorted Array (2026-11-27)** | `Beginner` | +40 XP | [`daily_2026-11-27_q3.md`](solutions/daily/daily_2026-11-27_q3.md) | ✅ Verified |
 | 117 | `🔥 Daily Quests` | **🔥 Quest 4: Best Time to Buy and Sell Stock (2026-11-27)** | `Beginner` | +50 XP | [`daily_2026-11-27_q4.md`](solutions/daily/daily_2026-11-27_q4.md) | ✅ Verified |
+| 118 | `🔥 Daily Quests` | **🔥 Quest 5: Safe List Element Removal (2026-11-27)** | `Beginner` | +35 XP | [`daily_2026-11-27_q5.md`](solutions/daily/daily_2026-11-27_q5.md) | ✅ Verified |
 
 ---
 
