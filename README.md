@@ -6,14 +6,14 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ### 🏆 Player Profile & Stats
 - **Rank**: Grand Architect (Level 20)
-- **Total XP**: 5295 pts
+- **Total XP**: 5335 pts
 - **Daily Streak**: 5 Days 🔥
-- **Total Quests Solved**: 122
+- **Total Quests Solved**: 123
 
 ---
 
 ### 📚 Course Mastery Progress
-- **🔥 Daily Quests**: 106 Daily Quests Completed 🔥
+- **🔥 Daily Quests**: 107 Daily Quests Completed 🔥
 - **🧠 DSA (Zero to Hero)**: 7/7 Quests (100%) ✅
 - **🐍 Python Mastery**: 3/3 Quests (100%) ✅
 - **🔍 SQL Detective**: 1/1 Quests (100%) ✅
@@ -24,7 +24,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 
 ---
 
-### 📁 Solved Quests Directory (122 Completed)
+### 📁 Solved Quests Directory (123 Completed)
 
 | # | Course | Quest Title | Difficulty | Reward | Solution Code | Status |
 |:---:|:---:|---|:---:|:---:|:---:|:---:|
@@ -150,6 +150,7 @@ Automated proof-of-work repository tracked with **DevQuest TUI**.
 | 120 | `🔥 Daily Quests` | **🔥 Quest 7: Extract Markdown Image URLs (Regex) (2026-11-27)** | `Beginner` | +40 XP | [`daily_2026-11-27_q7.md`](solutions/daily/daily_2026-11-27_q7.md) | ✅ Verified |
 | 121 | `🔥 Daily Quests` | **🔥 Quest 8: Validate IPv4 Addresses (Regex) (2026-11-27)** | `Intermediate` | +45 XP | [`daily_2026-11-27_q8.md`](solutions/daily/daily_2026-11-27_q8.md) | ✅ Verified |
 | 122 | `🔥 Daily Quests` | **🔥 Quest 9: Count Orders by Status (SQL) (2026-11-27)** | `Beginner` | +40 XP | [`daily_2026-11-27_q9.md`](solutions/daily/daily_2026-11-27_q9.md) | ✅ Verified |
+| 123 | `🔥 Daily Quests` | **🔥 Quest 10: Deduplicate List Preserving Order (2026-11-27)** | `Beginner` | +40 XP | [`daily_2026-11-27_q10.md`](solutions/daily/daily_2026-11-27_q10.md) | ✅ Verified |
 
 ---
 
